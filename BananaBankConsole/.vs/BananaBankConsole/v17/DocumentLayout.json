@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|c:\\users\\lucas\\source\\repos\\bananabankconsole\\bananabankconsole\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|solutionrelative:bananabankconsole\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|c:\\users\\lucas\\source\\repos\\bananabankconsole\\bananabankconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|solutionrelative:bananabankconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\bananabankconsole\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{069D0EED-8EF9-4FE9-8EC8-510FE3EB0E1F}|BananaBankConsole\\BananaBankConsole.csproj|solutionrelative:bananabankconsole\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\Cliente.cs",
+              "RelativeDocumentMoniker": "BananaBankConsole\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\Cliente.cs",
+              "RelativeToolTip": "BananaBankConsole\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:32:43.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BananaBankConsole\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\ClassDiagram1.cd",
+              "RelativeToolTip": "BananaBankConsole\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-20T14:05:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\Program.cs",
+              "RelativeDocumentMoniker": "BananaBankConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\BananaBankConsole\\BananaBankConsole\\Program.cs",
+              "RelativeToolTip": "BananaBankConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:24:06.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

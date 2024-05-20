@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\bin\Debug\net8.0\BananaBankConsole.exe
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\bin\Debug\net8.0\BananaBankConsole.deps.json
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\bin\Debug\net8.0\BananaBankConsole.runtimeconfig.json
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\bin\Debug\net8.0\BananaBankConsole.dll
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\bin\Debug\net8.0\BananaBankConsole.pdb
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.AssemblyInfo.cs
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.dll
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\refint\BananaBankConsole.dll
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.pdb
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\BananaBankConsole.genruntimeconfig.cache
+C:\Users\lucas\source\repos\BananaBankConsole\BananaBankConsole\obj\Debug\net8.0\ref\BananaBankConsole.dll
