@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\bin\Debug\net8.0\TesteClasseAbstrata.exe
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\bin\Debug\net8.0\TesteClasseAbstrata.deps.json
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\bin\Debug\net8.0\TesteClasseAbstrata.runtimeconfig.json
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\bin\Debug\net8.0\TesteClasseAbstrata.dll
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\bin\Debug\net8.0\TesteClasseAbstrata.pdb
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.AssemblyInfo.cs
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.dll
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\refint\TesteClasseAbstrata.dll
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.pdb
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\TesteClasseAbstrata.genruntimeconfig.cache
+C:\Users\lucas\source\repos\TesteClasseAbstrata\TesteClasseAbstrata\obj\Debug\net8.0\ref\TesteClasseAbstrata.dll

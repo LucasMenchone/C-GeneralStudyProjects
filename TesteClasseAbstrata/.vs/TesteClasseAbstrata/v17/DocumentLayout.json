@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|c:\\users\\lucas\\source\\repos\\testeclasseabstrata\\testeclasseabstrata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|solutionrelative:testeclasseabstrata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|c:\\users\\lucas\\source\\repos\\testeclasseabstrata\\testeclasseabstrata\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|solutionrelative:testeclasseabstrata\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|c:\\users\\lucas\\source\\repos\\testeclasseabstrata\\testeclasseabstrata\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|solutionrelative:testeclasseabstrata\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|c:\\users\\lucas\\source\\repos\\testeclasseabstrata\\testeclasseabstrata\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB315A90-A445-4D50-8636-8683D8CA6FF2}|TesteClasseAbstrata\\TesteClasseAbstrata.csproj|solutionrelative:testeclasseabstrata\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Circulo.cs",
+              "RelativeDocumentMoniker": "TesteClasseAbstrata\\Circulo.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Circulo.cs",
+              "RelativeToolTip": "TesteClasseAbstrata\\Circulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:30:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Quadrado.cs",
+              "RelativeDocumentMoniker": "TesteClasseAbstrata\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Quadrado.cs",
+              "RelativeToolTip": "TesteClasseAbstrata\\Quadrado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:22:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Forma.cs",
+              "RelativeDocumentMoniker": "TesteClasseAbstrata\\Forma.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Forma.cs",
+              "RelativeToolTip": "TesteClasseAbstrata\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:18:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Program.cs",
+              "RelativeDocumentMoniker": "TesteClasseAbstrata\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteClasseAbstrata\\TesteClasseAbstrata\\Program.cs",
+              "RelativeToolTip": "TesteClasseAbstrata\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:17:45.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
