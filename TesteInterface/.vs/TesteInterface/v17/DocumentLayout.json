@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|c:\\users\\lucas\\source\\repos\\testeinterface\\testeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|solutionrelative:testeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|c:\\users\\lucas\\source\\repos\\testeinterface\\testeinterface\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|solutionrelative:testeinterface\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|c:\\users\\lucas\\source\\repos\\testeinterface\\testeinterface\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|solutionrelative:testeinterface\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|c:\\users\\lucas\\source\\repos\\testeinterface\\testeinterface\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|solutionrelative:testeinterface\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|c:\\users\\lucas\\source\\repos\\testeinterface\\testeinterface\\arquivobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3323CCE-30B8-4FB7-80AB-77880567AAC6}|TesteInterface\\TesteInterface.csproj|solutionrelative:testeinterface\\arquivobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalvarJson.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\SalvarJson.cs",
+              "RelativeDocumentMoniker": "TesteInterface\\SalvarJson.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\SalvarJson.cs",
+              "RelativeToolTip": "TesteInterface\\SalvarJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:00:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalvarXml.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\SalvarXml.cs",
+              "RelativeDocumentMoniker": "TesteInterface\\SalvarXml.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\SalvarXml.cs",
+              "RelativeToolTip": "TesteInterface\\SalvarXml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:00:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArquivoBase.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\ArquivoBase.cs",
+              "RelativeDocumentMoniker": "TesteInterface\\ArquivoBase.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\ArquivoBase.cs",
+              "RelativeToolTip": "TesteInterface\\ArquivoBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:58:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISalvar.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\ISalvar.cs",
+              "RelativeDocumentMoniker": "TesteInterface\\ISalvar.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\ISalvar.cs",
+              "RelativeToolTip": "TesteInterface\\ISalvar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:56:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\Program.cs",
+              "RelativeDocumentMoniker": "TesteInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TesteInterface\\TesteInterface\\Program.cs",
+              "RelativeToolTip": "TesteInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:56:40.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

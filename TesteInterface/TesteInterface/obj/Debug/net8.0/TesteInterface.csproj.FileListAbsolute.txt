@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\bin\Debug\net8.0\TesteInterface.exe
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\bin\Debug\net8.0\TesteInterface.deps.json
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\bin\Debug\net8.0\TesteInterface.runtimeconfig.json
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\bin\Debug\net8.0\TesteInterface.dll
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\bin\Debug\net8.0\TesteInterface.pdb
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.AssemblyInfo.cs
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.dll
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\refint\TesteInterface.dll
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.pdb
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\TesteInterface.genruntimeconfig.cache
+C:\Users\lucas\source\repos\TesteInterface\TesteInterface\obj\Debug\net8.0\ref\TesteInterface.dll
